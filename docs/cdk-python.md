@@ -17,6 +17,12 @@ cdk --version
 ```
 ### Initializating CDK Project
 ```
+mkdir your_init_project
+```
+```
+cd your_init_project
+```
+```
 cdk init --language python
 ```
 
